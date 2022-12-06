@@ -1,0 +1,12 @@
+-.net web api-
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools 
+Microsoft.EntityFrameworkCore.SqlServer -Download
+
+New Folder-> Data
+
+MyContext DBset tableları yaz. (Db)
+
+appsettings.json & program.cs bağlantıları ekle.
+
+API Controller -> CityController
